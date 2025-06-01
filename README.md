@@ -31,7 +31,7 @@ To run locally:
 # 👤 Author
 
 - 💼 **Soumitra Samanta**
-- 📫 [soumitrasamanta69@gmail.com](mailto:soumitra69@gmail.com)
+- 📫 [soumitrasamanta69@gmail.com](mailto:soumitrasamanta69@gmail.com)
 - 🐙 [GitHub Profile](https://github.com/soumitra69)
 - 🚧 **Status**: Under Maintenance..............
 
